@@ -1,6 +1,3 @@
-Here is your complete, self-contained index.html portfolio file tailored to your SAP Technical Program Management and cloud transformation background. It features a clean, executive light-corporate aesthetic with deep sapphire blue (#0284c7) and slate accents, semantic HTML5, smooth scroll animations, and responsive navigation.
-
-Complete index.html
 
 html
 <!DOCTYPE html>
